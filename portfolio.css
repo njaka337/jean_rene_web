@@ -5,10 +5,9 @@ body{
 form{
 	text-align: center;
 	background-color: black;
-	color: white;
+	color: gray;
 }
 
 input{
-	border-radius: 1em;
-	border-style: double;
+	border-radius: 3em;
 }
