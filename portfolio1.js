@@ -1,1 +1,1 @@
-console.log(pass)
+console.log("Hello! Tongasoa");
