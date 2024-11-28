@@ -1,9 +1,14 @@
 body{
-	background-color: blue;
+	background-color: green;
 }
 
 form{
 	text-align: center;
 	background-color: black;
 	color: white;
+}
+
+input{
+	border-radius: 1em;
+	border-style: double;
 }
